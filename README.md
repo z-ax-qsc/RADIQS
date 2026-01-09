@@ -24,5 +24,5 @@ current NISQ devices.
     2. *qd-generation/subset-generation.py*
     3. *qd-expansion/dataset_expansion.py*
 3. Update **qsimpy/utils/Params.py** file with required hyperparameters
-4. Run **evaluator_networked.py** file and analye the result stored in **evaluation/** folder
+4. Run **evaluator_networked.py** file and analye the result generated in **evaluation/** folder
 
