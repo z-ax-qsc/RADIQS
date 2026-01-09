@@ -42,7 +42,7 @@ env.production.local/
 *.exe
 
 # Miscellaneous
-.DS_Store
+*.DS_Store
 Thumbs.db
 
 # QASM files
