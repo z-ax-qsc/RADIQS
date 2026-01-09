@@ -16,7 +16,7 @@ __pycache__/
 .env.production.local
 
 # IDE
-.vscode/
+.vscode
 .idea/
 *.code-workspace
 
